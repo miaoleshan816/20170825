@@ -1,0 +1,2 @@
+<text>标题是：{{title}}</text>
+<view >id是：{{id}}</view>
